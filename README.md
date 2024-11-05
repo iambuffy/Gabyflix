@@ -1,4 +1,4 @@
-# AluraFlix
+# GabyFlix
 Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
 
 ## Tecnologias utilizadas
@@ -6,7 +6,7 @@ Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um
 - CSS
 
 ## Acessando o código
-Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
+Para acessar o código das às aulas, só clicar no seletor `main` do repositório e selecionar a aula que quiser.
 
 ## Notas e créditos
-Feito por Guilherme Silveira, instrutor e fundador da Alura.
+Feito por Gabriela Ribeiro
